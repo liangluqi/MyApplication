@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liangluqi1507a20170825/liangluqi1507a20170825.iml" filepath="$PROJECT_DIR$/liangluqi1507a20170825/liangluqi1507a20170825.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xListView/xListView.iml" filepath="$PROJECT_DIR$/xListView/xListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhangsan20170830/zhangsan20170830.iml" filepath="$PROJECT_DIR$/zhangsan20170830/zhangsan20170830.iml" />
+    </modules>
+  </component>
+</project>
